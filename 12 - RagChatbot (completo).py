@@ -25,15 +25,15 @@ st.markdown(
     <style>
     .stApp {
         background-color: #B84B4B;
-        color: #B1D4D8;
+        color: #eeebe3;
     }
     </style>
     """,
     unsafe_allow_html=True)
 
-st.header("Assistenza online")
+st.header("Hello Bok")
 
-st.image("Bok.png", width=500)
+st.image("BOK.png", width=100)
 
 documento = "Cristina Lena Di Trapani_CV.pdf"
 
