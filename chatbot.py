@@ -23,7 +23,7 @@ st.markdown(
     """,
     unsafe_allow_html=True)
 
-st.header("Hello Bok")
+st.header("Ciao, sono Hello Bok. Chi stiamo cercando? ")
 
 st.image("BOK.png", width=100)
 with st.sidebar:
