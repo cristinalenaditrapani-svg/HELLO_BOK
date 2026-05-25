@@ -16,7 +16,7 @@ from langchain_core.output_parsers import StrOutputParser
 # Elenco di tutte le icone Streamlit:
 # https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 st.set_page_config(page_title= "RagChatbot",
-                   page_icon=":classical_building:")
+                   page_icon="::mermaid:")
 
 # Personalizzazione colori:
 # Colori esadecimali: https://divmagic.com/it/tools/color-converter
